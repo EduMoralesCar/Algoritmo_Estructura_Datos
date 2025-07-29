@@ -2,13 +2,16 @@
 
 Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**. A lo largo de las semanas, fui registrando conceptos clave, ejercicios prácticos y reflexiones personales sobre los temas vistos en clase.
 
+
 ## 🧠 Objetivo
 
 El objetivo de este repositorio es servir como bitácora de estudio, donde se reflejan los avances semanales, los temas abordados y las prácticas realizadas. Es una herramienta tanto para repasar como para compartir mi progreso con otros.
 
+
 ## 🛠️ Tecnologías utilizadas
-- Lenguaje: Java 23 (Pero puedes utulizar cualquiera versión apartir del 17)
+- Lenguaje: **Java 23** (Pero puedes utulizar cualquiera versión apartir del 17)
 - Herramientas: **NetBeans IDE**
+
 
 ## 📁 Estructura del proyecto
 ```plaintext
@@ -61,4 +64,4 @@ src/
 
 ## 👨‍💻 Autor
 
-Desarrollado por [EduMoralesCar](https://github.com/EduMoralesCar) como parte del proyecto final de transformación digital.
+Desarrollado por [EduMoralesCar](https://github.com/EduMoralesCar) como parte del proceso de Aprendizaje.
