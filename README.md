@@ -29,9 +29,6 @@ El repositorio está organizado por carpetas semanales:
 
 ✅ En curso – Este repositorio seguirá actualizándose conforme avance en el estudio de estructuras de datos más complejas o realice prácticas adicionales.
 
-## 🙋 Sobre mí
+## 👨‍💻 Autor
 
-Soy **Carlos Morales**, estudiante de ingeniería y apasionado por el desarrollo de software. Este repositorio refleja mi compromiso con el aprendizaje continuo y la mejora constante.
-
-- GitHub
-- [LinkedIn](https://am](https://www.instagram.com/tu-perfil
+Desarrollado por [EduMoralesCar](https://github.com/EduMoralesCar) como parte del proyecto final de transformación digital.
