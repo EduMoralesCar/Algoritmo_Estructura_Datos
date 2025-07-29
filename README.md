@@ -1,10 +1,14 @@
 # 📘 Algoritmos y Estructura de Datos – Proceso de Aprendizaje
 
-Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**, desarrollado en **Java** usando **NetBeans IDE** con **Java 23**. Los ejercicios pueden ejecutarse con cualquier JDK a partir de la versión 17.
+Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**. A lo largo de las semanas, fui registrando conceptos clave, ejercicios prácticos y reflexiones personales sobre los temas vistos en clase.
 
 ## 🧠 Objetivo
 
-Registrar semana a semana los temas vistos en clase, incluyendo ejercicios prácticos y conceptos teóricos, como una bitácora de estudio personal.
+El objetivo de este repositorio es servir como bitácora de estudio, donde se reflejan los avances semanales, los temas abordados y las prácticas realizadas. Es una herramienta tanto para repasar como para compartir mi progreso con otros.
+
+## 🛠️ Tecnologías utilizadas
+- Lenguaje: Java 23 (Pero puedes utulizar cualquiera versión apartir del 17)
+- Herramientas: **NetBeans IDE**
 
 ## 📁 Estructura del proyecto
 ```plaintext
@@ -50,6 +54,10 @@ src/
 └── Semana15/
     └── [Teoría de grafos: aplicaciones y análisis]
 ```
+
+⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
+
+
 
 ## 👨‍💻 Autor
 
