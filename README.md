@@ -1,33 +1,55 @@
 # 📘 Algoritmos y Estructura de Datos – Proceso de Aprendizaje
 
-Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**. A lo largo de las semanas, fui registrando conceptos clave, ejercicios prácticos y reflexiones personales sobre los temas vistos en clase.
+Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**, desarrollado en **Java** usando **NetBeans IDE** con **Java 23**. Los ejercicios pueden ejecutarse con cualquier JDK a partir de la versión 17.
 
 ## 🧠 Objetivo
 
-El objetivo de este repositorio es servir como bitácora de estudio, donde se reflejan los avances semanales, los temas abordados y las prácticas realizadas. Es una herramienta tanto para repasar como para compartir mi progreso con otros.
+Registrar semana a semana los temas vistos en clase, incluyendo ejercicios prácticos y conceptos teóricos, como una bitácora de estudio personal.
 
-## 📅 Estructura del repositorio
-
-El repositorio está organizado por carpetas semanales:
-
-- **Semana 1**: Introducción al curso. Solo se abordaron conceptos teóricos, por lo que no se subió contenido.
-- **Semana 2 a Semana 4**: Inicio de ejercicios prácticos. Se incluyen temas como estructuras básicas, pseudocódigo y primeros algoritmos.
-- **Semana 5 y Semana 10**: No se subió contenido debido a semanas de exámenes en la universidad.
-- **Semana 6 a Semana 9**: Continuación del desarrollo de algoritmos y estructuras lineales.
-- **Semana 11 en adelante**: Enfoque en estructuras no lineales, especialmente **árboles** y **grafos**. Se estudiaron conceptos como:
-  - Recorridos: **inorden**, **preorden**, **postorden**
-  - Inserciones y eliminaciones en árboles
-  - Introducción a grafos y sus representaciones
-
-> ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
-
-## 🛠️ Tecnologías utilizadas
-- Lenguaje: Python (en la mayoría de los ejercicios)
-- Herramientas: Visual Studio Code, Jupyter Notebooks
-
-## 📌 Estado del proyecto
-
-✅ En curso – Este repositorio seguirá actualizándose conforme avance en el estudio de estructuras de datos más complejas o realice prácticas adicionales.
+## 📁 Estructura del proyecto
+```plaintext
+src/
+├── Semana01/                  ← Introducción teórica (sin archivos)
+├── Semana02/
+│   ├── Ejercicio_01/
+│   │   └── UnidimensionalArreglo.java
+│   ├── Ejercicio_02_03/
+│   │   ├── Unidimensional.form
+│   │   └── Unidimensional.java
+│   ├── Ejercicio_04/
+│   │   ├── ListaAmigos.form
+│   │   └── ListaAmigos.java
+│   └── Ejercicio_05/
+│       ├── RegistroDatos.form
+│       └── RegistroDatos.java
+├── Semana03/
+│   ├── InventarioProductos.java
+│   ├── RegistroEmpleados.java
+│   ├── RegistroEstudiantes.java
+│   └── README.md
+├── Semana04/
+│   └── [Ejercicios prácticos adicionales]
+├── Semana05/                  ← Semana de exámenes (sin contenido)
+├── Semana06/
+│   └── [Ejercicios prácticos]
+├── Semana07/
+│   └── [Ejercicios prácticos]
+├── Semana08/
+│   └── [Ejercicios prácticos]
+├── Semana09/
+│   └── [Ejercicios prácticos]
+├── Semana10/                 ← Semana de exámenes (sin contenido)
+├── Semana11/
+│   └── [Inicio de teoría de árboles]
+├── Semana12/
+│   └── [Teoría de árboles: inserción, eliminación, recorridos]
+├── Semana13/
+│   └── [Teoría de árboles: inorden, preorden, postorden]
+├── Semana14/
+│   └── [Teoría de grafos: conceptos y representaciones]
+└── Semana15/
+    └── [Teoría de grafos: aplicaciones y análisis]
+```
 
 ## 👨‍💻 Autor
 
