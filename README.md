@@ -60,20 +60,40 @@ src/
 │       ├── Nodo.java
 │       └── Principal.java
 ├── Semana08/
-│   └── [Ejercicios prácticos]
+│   ├── ListaEnlazadaDoble/
+│   │   ├── JFrameComponentesPC.form
+│   │   ├── JFrameComponentesPC.java
+│   │   └── Nodo.java
+│   └── ListaEnlazadaSimple/
+│       ├── JframeListas.form
+│       ├── JframeListas.java
+│       ├── Nodo.java
+│       └── salir.jpg
 ├── Semana09/
-│   └── [Ejercicios prácticos]
+│   ├── JFrameRegistroEmpleados.form
+│   ├── JFrameRegistroEmpleados.java
+│   └── Nodo.java
 ├── Semana10/                 ← Semana de exámenes (sin contenido)
 ├── Semana11/
-│   └── [Inicio de teoría de árboles]
+│   ├── Pila.java
+│   ├── Principal_Pilas.form
+│   └── Principal_Pilas.java
 ├── Semana12/
-│   └── [Teoría de árboles: inserción, eliminación, recorridos]
+│   ├── Cola.java
+│   ├── Principal_Colas.form
+│   └── Principal_Colas.java
 ├── Semana13/
 │   └── [Teoría de árboles: inorden, preorden, postorden]
 ├── Semana14/
 │   └── [Teoría de grafos: conceptos y representaciones]
 ├── Semana15/
 │   └── [Teoría de grafos: aplicaciones y análisis]
+└── Laboratorio/
+    ├── JframeListas.form
+    ├── JframeListas.java
+    ├── JframeListasEnlazadas.form
+    ├── JframeListasEnlazadas.java
+    └── Nodo.java
 ```
 
 ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
