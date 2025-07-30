@@ -14,6 +14,7 @@ El objetivo de este repositorio es servir como bitácora de estudio, donde se re
 
 
 ## 📁 Estructura del proyecto
+
 ```plaintext
 src/
 ├── Semana01/                  ← Introducción teórica (sin archivos)
@@ -35,12 +36,29 @@ src/
 │   ├── RegistroEstudiantes.java
 │   └── README.md
 ├── Semana04/
-│   └── [Ejercicios prácticos adicionales]
+│   ├── ArreglosBidimensionales.java
+│   ├── Formulario01.java
+│   ├── Formulario02.java
+│   ├── Formulario03.form
+│   ├── Formulario03.java
+│   ├── Formulario04.java
+│   ├── Formulario05.java
+│   ├── Formulario06.java
+│   ├── Formulario07.java
+│   ├── Formulario08.java
+│   ├── Formulario09.java
+│   └── Formulario10.java
 ├── Semana05/                  ← Semana de exámenes (sin contenido)
 ├── Semana06/
-│   └── [Ejercicios prácticos]
+│   ├── JFramePokemon.form
+│   ├── JFramePokemon.java
+│   ├── MainPokemon.java
+│   └── Pokemon.java
 ├── Semana07/
-│   └── [Ejercicios prácticos]
+│   └── Ejercicio01/
+│       ├── ListaEnlazada.java
+│       ├── Nodo.java
+│       └── Principal.java
 ├── Semana08/
 │   └── [Ejercicios prácticos]
 ├── Semana09/
@@ -54,8 +72,8 @@ src/
 │   └── [Teoría de árboles: inorden, preorden, postorden]
 ├── Semana14/
 │   └── [Teoría de grafos: conceptos y representaciones]
-└── Semana15/
-    └── [Teoría de grafos: aplicaciones y análisis]
+├── Semana15/
+│   └── [Teoría de grafos: aplicaciones y análisis]
 ```
 
 ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
