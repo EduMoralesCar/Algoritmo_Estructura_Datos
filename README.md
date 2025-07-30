@@ -92,9 +92,8 @@ src/
 │   └── [Teoría de árboles: inorden, preorden, postorden]
 ├── Semana14/
 │   └── [Teoría de grafos: conceptos y representaciones]
-├── Semana15/
-│   └── [Teoría de grafos: aplicaciones y análisis]
-└── Laboratorio/
+└── Semana15/
+    └── [Teoría de grafos: aplicaciones y análisis]
 ```
 
 ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
