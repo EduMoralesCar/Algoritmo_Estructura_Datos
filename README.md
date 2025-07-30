@@ -56,9 +56,15 @@ src/
 │   └── Pokemon.java
 ├── Semana07/
 │   └── Ejercicio01/
-│       ├── ListaEnlazada.java
-│       ├── Nodo.java
-│       └── Principal.java
+│   │   ├── ListaEnlazada.java
+│   │   ├── Nodo.java
+│   │   └── Principal.java
+│   └── Laboratorio/
+│       ├── JframeListas.form
+│       ├── JframeListas.java
+│       ├── JframeListasEnlazadas.form
+│       ├── JframeListasEnlazadas.java
+│       └── Nodo.java
 ├── Semana08/
 │   ├── ListaEnlazadaDoble/
 │   │   ├── JFrameComponentesPC.form
@@ -89,11 +95,6 @@ src/
 ├── Semana15/
 │   └── [Teoría de grafos: aplicaciones y análisis]
 └── Laboratorio/
-    ├── JframeListas.form
-    ├── JframeListas.java
-    ├── JframeListasEnlazadas.form
-    ├── JframeListasEnlazadas.java
-    └── Nodo.java
 ```
 
 ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
