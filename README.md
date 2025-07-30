@@ -9,7 +9,7 @@ El objetivo de este repositorio es servir como bitácora de estudio, donde se re
 
 
 ## 🛠️ Tecnologías utilizadas
-- Lenguaje: **Java 23** (Pero puedes utulizar cualquiera versión apartir del 17)
+- Lenguaje: **Java 23** (compatible con cualquier JDK desde la versión 17)
 - Herramientas: **NetBeans IDE**
 
 
