@@ -1,17 +1,21 @@
+
 # 📘 Algoritmos y Estructura de Datos – Proceso de Aprendizaje
 
 Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**. A lo largo de las semanas, fui registrando conceptos clave, ejercicios prácticos y reflexiones personales sobre los temas vistos en clase.
 
+---
 
 ## 🧠 Objetivo
 
 El objetivo de este repositorio es servir como bitácora de estudio, donde se reflejan los avances semanales, los temas abordados y las prácticas realizadas. Es una herramienta tanto para repasar como para compartir mi progreso con otros.
 
+---
 
 ## 🛠️ Tecnologías utilizadas
 - Lenguaje: **Java 23** (compatible con cualquier JDK desde la versión 17)
 - Herramientas: **Apache NetBeans IDE 25**
 
+---
 
 ## 📁 Estructura del proyecto
 
@@ -98,7 +102,7 @@ src/
 
 ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
 
-
+---
 
 ## 👨‍💻 Autor
 
