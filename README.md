@@ -11,6 +11,16 @@ El objetivo de este repositorio es servir como bitácora de estudio, donde se re
 
 ---
 
+## 🚀 Cómo ejecutar
+
+```bash
+git clone https://github.com/EduMoralesCar/Algoritmo_Estructura_Datos.git
+cd Algoritmo_Estructura_Datos
+# Abre el proyecto con NetBeans IDE o compila los archivos Java manualmente.
+```
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 - Lenguaje: **Java 23** (compatible con cualquier JDK desde la versión 17)
 - Herramientas: **Apache NetBeans IDE 25**
