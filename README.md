@@ -1,7 +1,7 @@
 
 # 📘 Algoritmos y Estructura de Datos – Proceso de Aprendizaje
 
-Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos**. A lo largo de las semanas, fui registrando conceptos clave, ejercicios prácticos y reflexiones personales sobre los temas vistos en clase.
+Este repositorio documenta mi proceso de aprendizaje en el curso de **Algoritmos y Estructura de Datos** usando Java y NetBeans. Aquí encontrarás ejemplos prácticos de arreglos, listas, pilas, colas, y otros conceptos fundamentales de la programación y la informática.
 
 ---
 
