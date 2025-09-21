@@ -29,88 +29,103 @@ cd Algoritmo_Estructura_Datos
 
 ## 📁 Estructura del proyecto
 
-```plaintext
-src/
-├── Semana01/                  ← Introducción teórica (sin archivos)
-├── Semana02/
-│   ├── Ejercicio_01/
-│   │   └── UnidimensionalArreglo.java
-│   ├── Ejercicio_02_03/
-│   │   ├── Unidimensional.form
-│   │   └── Unidimensional.java
-│   ├── Ejercicio_04/
-│   │   ├── ListaAmigos.form
-│   │   └── ListaAmigos.java
-│   └── Ejercicio_05/
-│       ├── RegistroDatos.form
-│       └── RegistroDatos.java
-├── Semana03/
-│   ├── InventarioProductos.java
-│   ├── RegistroEmpleados.java
-│   ├── RegistroEstudiantes.java
-│   └── README.md
-├── Semana04/
-│   ├── ArreglosBidimensionales.java
-│   ├── Formulario01.java
-│   ├── Formulario02.java
-│   ├── Formulario03.form
-│   ├── Formulario03.java
-│   ├── Formulario04.java
-│   ├── Formulario05.java
-│   ├── Formulario06.java
-│   ├── Formulario07.java
-│   ├── Formulario08.java
-│   ├── Formulario09.java
-│   └── Formulario10.java
-├── Semana05/                  ← Semana de exámenes (sin contenido)
-├── Semana06/
-│   ├── JFramePokemon.form
-│   ├── JFramePokemon.java
-│   ├── MainPokemon.java
-│   └── Pokemon.java
-├── Semana07/
-│   └── Ejercicio01/
-│   │   ├── ListaEnlazada.java
-│   │   ├── Nodo.java
-│   │   └── Principal.java
-│   └── Laboratorio/
-│       ├── JframeListas.form
-│       ├── JframeListas.java
-│       ├── JframeListasEnlazadas.form
-│       ├── JframeListasEnlazadas.java
-│       └── Nodo.java
-├── Semana08/
-│   ├── ListaEnlazadaDoble/
-│   │   ├── JFrameComponentesPC.form
-│   │   ├── JFrameComponentesPC.java
-│   │   └── Nodo.java
-│   └── ListaEnlazadaSimple/
-│       ├── JframeListas.form
-│       ├── JframeListas.java
-│       ├── Nodo.java
-│       └── salir.jpg
-├── Semana09/
-│   ├── JFrameRegistroEmpleados.form
-│   ├── JFrameRegistroEmpleados.java
-│   └── Nodo.java
-├── Semana10/                 ← Semana de exámenes (sin contenido)
-├── Semana11/
-│   ├── Pila.java
-│   ├── Principal_Pilas.form
-│   └── Principal_Pilas.java
-├── Semana12/
-│   ├── Cola.java
-│   ├── Principal_Colas.form
-│   └── Principal_Colas.java
-├── Semana13/
+```
+├── 📁 nbproject/
+│   ├── 📁 private/
+│   │   ├── 📄 private.properties
+│   │   └── 📄 private.xml
+│   ├── 📄 build-impl.xml
+│   ├── 📄 genfiles.properties
+│   ├── 📄 project.properties
+│   └── 📄 project.xml
+├── 📁 src/
+│   ├── 📁 Semana01/                  ← Introducción teórica (sin archivos)
+│   ├── 📁 Semana02/
+│   │   ├── 📁 Ejercicio_01/
+│   │   │   └── ☕ UnidimensionalArreglo.java
+│   │   ├── 📁 Ejercicio_02_03/
+│   │   │   ├── 📄 Unidimensional.form
+│   │   │   └── ☕ Unidimensional.java
+│   │   ├── 📁 Ejercicio_04/
+│   │   │   ├── 📄 ListaAmigos.form
+│   │   │   └── ☕ ListaAmigos.java
+│   │   └── 📁 Ejercicio_05/
+│   │       ├── 📄 RegistroDatos.form
+│   │       └── ☕ RegistroDatos.java
+│   ├── 📁 Semana03/
+│   │   ├── ☕ InventarioProductos.java
+│   │   ├── 📖 README.md
+│   │   ├── ☕ RegistroEmpleados.java
+│   │   └── ☕ RegistroEstudiantes.java
+│   ├── 📁 Semana04/
+│   │   ├── ☕ ArreglosBidimensionales.java
+│   │   ├── ☕ Formulario01.java
+│   │   ├── ☕ Formulario02.java
+│   │   ├── 📄 Formulario03.form
+│   │   ├── ☕ Formulario03.java
+│   │   ├── ☕ Formulario04.java
+│   │   ├── ☕ Formulario05.java
+│   │   ├── ☕ Formulario06.java
+│   │   ├── ☕ Formulario07.java
+│   │   ├── ☕ Formulario08.java
+│   │   ├── ☕ Formulario09.java
+│   │   └── ☕ Formulario10.java
+│   ├── 📁 Semana05/                  ← Semana de exámenes (sin contenido)
+│   ├── 📁 Semana06/
+│   │   ├── 📄 JFramePokemon.form
+│   │   ├── ☕ JFramePokemon.java
+│   │   ├── ☕ MainPokemon.java
+│   │   └── ☕ Pokemon.java
+│   ├── 📁 Semana07/
+│   │   ├── 📁 Ejercicio01/
+│   │   │   ├── ☕ ListaEnlazada.java
+│   │   │   ├── ☕ Nodo.java
+│   │   │   └── ☕ Principal.java
+│   │   └── 📁 Laboratorio/
+│   │       ├── 📄 JframeListas.form
+│   │       ├── ☕ JframeListas.java
+│   │       ├── 📄 JframeListasEnlazadas.form
+│   │       ├── ☕ JframeListasEnlazadas.java
+│   │       └── ☕ Nodo.java
+│   ├── 📁 Semana08/
+│   │   ├── 📁 ListaEnlazadaDoble/
+│   │   │   ├── 📄 JFrameComponentesPC.form
+│   │   │   ├── ☕ JFrameComponentesPC.java
+│   │   │   └── ☕ Nodo.java
+│   │   └── 📁 ListaEnlazadaSimple/
+│   │       ├── 📄 JframeListas.form
+│   │       ├── ☕ JframeListas.java
+│   │       ├── ☕ Nodo.java
+│   │       └── 🖼️ salir.jpg
+│   ├── 📁 Semana09/
+│   │   ├── 📄 JFrameRegistroEmpleados.form
+│   │   ├── ☕ JFrameRegistroEmpleados.java
+│   │   └── ☕ Nodo.java
+│   ├── 📁 Semana10/                 ← Semana de exámenes (sin contenido)
+│   ├── 📁 Semana11/
+│   │   ├── ☕ Pila.java
+│   │   ├── 📄 Principal_Pilas.form
+│   │   └── ☕ Principal_Pilas.java
+│   ├── 📁 Semana12/
+│   │   ├── ☕ Cola.java
+│   │   ├── 📄 Principal_Colas.form
+│   │   └── ☕ Principal_Colas.java
+│   ├── 📁 Semana13/
 │   └── [Teoría de árboles: inorden, preorden, postorden]
-├── Semana14/
+│   ├── 📁 Semana14/
 │   └── [Teoría de grafos: conceptos y representaciones]
-└── Semana15/
+│   ├── 📁 Semana15/
     └── [Teoría de grafos: aplicaciones y análisis]
+│   └── 📁 s03/
+│       ├── 📄 S04_Form.form
+│       ├── ☕ S04_Form.java
+│       └── ☕ Semana04.java
+├── 📖 README.md
+├── 📄 build.xml
+└── 📄 manifest.mf
 ```
 
-⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
+> ⚠️ Nota: Aunque se estudiaron árboles y grafos en profundidad, no se subió código correspondiente ya que el enfoque fue más teórico en esas semanas.
 
 ---
 
